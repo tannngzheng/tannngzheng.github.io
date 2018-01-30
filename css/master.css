@@ -1,0 +1,60 @@
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.prof-box1 {
+	width: 500px;
+	height: 1050px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	margin: 0 auto;
+	color: white;
+	margin-top: 140px;
+	text-align: center;
+}
+
+.line-break {
+	width: 500px;
+	margin: 0 auto;
+	border-top: 1px solid white;
+}
+
+h5 {
+	color: white;
+	text-align: left;
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+.prof-box2 {
+	width: 500px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.prof-pic {
+	border-radius: 60%;
+	height: 200px;
+	widows: 200px;
+}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 6;
+	font-size: 40px;
+}
+
+.social-links {
+	font-size: 40px;
+	margin: 0 auto;
+}
+
+.social-links a {
+	color: white;
+}
+
+
+
